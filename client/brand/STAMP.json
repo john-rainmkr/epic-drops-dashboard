@@ -1,0 +1,19 @@
+{
+  "source": "_SHARED/brand/assets",
+  "kit": "RAINMKR Brand V7 (Graphite Hybrid)",
+  "stamped": "2026-10-20T05:20:36.462650+00:00",
+  "files": {
+    "brand.css": "75906050841833f87319bed6d260021b79cb90ae0d46459343f18dcfc949bbe4",
+    "fonts/WixMadeforDisplay-Medium.ttf": "c51fa40f54d8f51034d1204866767ec9cf39fddbb34e6385f672c6cc46f38d1b",
+    "fonts/WixMadeforDisplay-SemiBold.ttf": "e1e6e77ca8aeab60f1652254fc0b86a62888854ac5efc06a5a7b36ce51d99aa8",
+    "fonts/WixMadeforText-Regular.ttf": "c5a6e3c7ea656142f70f6fc2567a1d1aaf8d89728ebc1a8d3d6f5bd01ddd5bf6",
+    "fonts/WixMadeforText-SemiBold.ttf": "0d3bbc4868c61c2ab459324effd2c97782dfc05828a3cc04cd513e082684a580",
+    "fonts/AzeretMono-Regular.ttf": "1d943004307a6714a354af62774dd4fa4123242b11754299ab5d86815ba55162",
+    "logo/RAINMKR_Lockup_OnDark.svg": "f8f916f129b6994561329092bd989e74433ddabea37e6f793eb400d15198c884",
+    "logo/RAINMKR_Lockup_OnLight.svg": "d40aa76ed203393d122b4cac4f61fdda5c870a440d4964ddc45dd803af2588e8",
+    "logo/RAINMKR_Mark_OnDark.svg": "510221f33e0a0fa0e3261a80026753160193e6a13e1fb58da7028410d9ef744b",
+    "logo/RAINMKR_Mark_OnLight.svg": "19c5d89403cf1cb91d070fde64469bfe17a74eb05ba5f6252c8f2fc60d37a901",
+    "logo/RAINMKR_Lockup_OnDark.png": "b410dcee77dbd705eacf710441533c33c9198dfa9018dc6ac393e01c5a5fc851",
+    "logo/RAINMKR_Lockup_OnLight.png": "b045cb9b42644a6638b724d3b8d04955ae9c2f1907f3dbbbbdc447a48a41bcec"
+  }
+}

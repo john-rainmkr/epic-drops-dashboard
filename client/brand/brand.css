@@ -1,0 +1,35 @@
+/* RAINMKR BRAND V7 (Graphite Hybrid, final) | Source: _SHARED\brand\assets | Ruled by John 2026-10-01, final guide 2026-10-02
+   Stamped into every template's brand\ folder by _SHARED\brand\tools\brand_sync.py.
+   DO NOT EDIT A STAMPED COPY. Edits fail brand_check. Change the canon, then re-run brand_sync.
+
+   Type law:
+     Wix Madefor Display Medium 500 .... headlines, titles, figures
+     Wix Madefor Display SemiBold 600 .. the turn inside a headline, kickers
+     Wix Madefor Text Regular 400 ...... body copy
+     Wix Madefor Text SemiBold 600 ..... bold leads inside body copy
+     Azeret Mono Regular 400 ........... labels and measurements, tracked, capitals (Consolas is the Office mono)
+   No serif, no italic, no other family, no other weight. */
+
+@font-face { font-family: "Wix Madefor Display"; src: url("fonts/WixMadeforDisplay-Medium.ttf");   font-weight: 500; font-style: normal; }
+@font-face { font-family: "Wix Madefor Display"; src: url("fonts/WixMadeforDisplay-SemiBold.ttf"); font-weight: 600; font-style: normal; }
+@font-face { font-family: "Wix Madefor Text";    src: url("fonts/WixMadeforText-Regular.ttf");     font-weight: 400; font-style: normal; }
+@font-face { font-family: "Wix Madefor Text";    src: url("fonts/WixMadeforText-SemiBold.ttf");    font-weight: 600; font-style: normal; }
+@font-face { font-family: "Azeret Mono";         src: url("fonts/AzeretMono-Regular.ttf");         font-weight: 400; font-style: normal; }
+
+:root {
+  --rk-display: "Wix Madefor Display", sans-serif;
+  --rk-text: "Wix Madefor Text", sans-serif;
+  --rk-mono: "Azeret Mono", Consolas, monospace;
+  /* the permanent frame */
+  --rk-graphite: #15151A;   /* dominant canvas */
+  --rk-onyx: #030304;       /* information surfaces: tiles, tables, scorecards, callouts. Ink on Bone. */
+  --rk-bone: #F4F1EC;       /* foreground on dark. Canvas on the Bone flip. */
+  /* the spectrum, in graded order */
+  --rk-cyan: #3BC6FF;                          /* shared primary: the one blue, it leads */
+  --rk-lime: #C4E163; --rk-orange: #FEA964;      /* lime shares primary status; orange supports */
+  --rk-pink: #FA5491; --rk-violet: #C862FA;      /* selective */
+  --rk-cyan-ink: #0B7DBA;                      /* Glass Cyan as text on Bone */
+  --rk-lime-ink: #536B1E; --rk-orange-ink: #A04A0A; --rk-violet-ink: #8143A0;   /* label inks on Bone (V7 guide pp. 6, 10, 14) */
+  --rk-pink-ink: #C62B65;                      /* jump word, bad number and [fill-in] on Bone; never a sequence label */
+  --rk-mist: #B9BAC2;                            /* secondary text on dark */
+}
